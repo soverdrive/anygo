@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	log.Println("hi! I'm cron")
+	log.Println("hi! I'm cron.")
 }
